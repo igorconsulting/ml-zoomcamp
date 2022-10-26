@@ -1,0 +1,2 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: python-dotenv in /home/igor-diniz/.local/lib/python3.10/site-packages (0.17.0)

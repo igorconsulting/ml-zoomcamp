@@ -1,0 +1,41 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python-is-python2 is already the newest version (2.7.17-4).
+The following packages were automatically installed and are no longer required:
+  apg apport-symptoms aptdaemon-data avahi-utils bluez cheese-common
+  cracklib-runtime cups-pk-helper gir1.2-notify-0.7 gir1.2-packagekitglib-1.0
+  gir1.2-secret-1 gir1.2-vte-2.91 gnome-control-center-data
+  gnome-control-center-faces gnome-online-accounts gstreamer1.0-clutter-3.0
+  ippusbxd libappindicator3-1 libappstream4 libcheese-gtk25 libcheese8
+  libclutter-1.0-0 libclutter-1.0-common libclutter-gst-3.0-0
+  libclutter-gtk-1.0-0 libcogl-common libcogl-pango20 libcogl-path20 libcogl20
+  libcolord-gtk1 libcrack2 libdbusmenu-glib4 libdbusmenu-gtk3-4
+  libfwupdplugin1 libgee-0.8-2 libgoa-backend-1.0-1 libgsound0 libgssdp-1.2-0
+  libgtop-2.0-11 libgtop2-common libgupnp-1.2-0 libgupnp-av-1.0-2
+  libgupnp-dlna-2.0-3 libldb2 libmediaart-2.0-0 libpackagekit-glib2-18
+  libpwquality-common libpwquality1 librygel-core-2.6-2 librygel-db-2.6-2
+  librygel-renderer-2.6-2 librygel-server-2.6-2 libsbc1 libsmbclient
+  libstemmer0d libtalloc2 libtevent0 libwbclient0 libwhoopsie-preferences0
+  libwhoopsie0 libxatracker2 libxss1 libxvmc1 mobile-broadband-provider-info
+  mousetweaks network-manager-gnome packagekit packagekit-tools
+  pulseaudio-module-bluetooth python3-automat python3-cairo python3-click
+  python3-colorama python3-constantly python3-cups python3-cupshelpers
+  python3-debian python3-defer python3-distro-info python3-entrypoints
+  python3-gdbm python3-hamcrest python3-httplib2 python3-hyperlink
+  python3-incremental python3-keyring python3-launchpadlib
+  python3-lazr.restfulclient python3-lazr.uri python3-ldb
+  python3-macaroonbakery python3-problem-report python3-protobuf
+  python3-pyasn1 python3-pyasn1-modules python3-requests-unixsocket
+  python3-rfc3339 python3-secretstorage python3-service-identity
+  python3-simplejson python3-systemd python3-talloc python3-twisted
+  python3-twisted-bin python3-tz python3-wadllib python3-zope.interface rygel
+  samba-libs system-config-printer system-config-printer-common
+  system-config-printer-udev whoopsie-preferences xserver-xorg-core
+  xserver-xorg-input-all xserver-xorg-input-libinput xserver-xorg-input-wacom
+  xserver-xorg-video-all xserver-xorg-video-amdgpu xserver-xorg-video-ati
+  xserver-xorg-video-fbdev xserver-xorg-video-intel xserver-xorg-video-nouveau
+  xserver-xorg-video-qxl xserver-xorg-video-radeon xserver-xorg-video-vesa
+  xserver-xorg-video-vmware
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
